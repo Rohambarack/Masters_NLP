@@ -1,0 +1,5 @@
+p2.ipynb
+data/data.csv
+model/encoded_l_all.pkl
+model/encoder.pkl
+model/valid_curve.png

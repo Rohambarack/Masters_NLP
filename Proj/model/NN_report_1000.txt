@@ -1,0 +1,17 @@
+Neural Network Classifier output
+
+Classification Report
+
+                      precision    recall  f1-score   support
+
+             Anxiety       0.79      0.83      0.81       768
+             Bipolar       0.83      0.79      0.81       556
+          Depression       0.75      0.73      0.74      3081
+              Normal       0.92      0.95      0.93      3269
+Personality disorder       0.77      0.72      0.74       215
+              Stress       0.69      0.64      0.66       517
+            Suicidal       0.69      0.71      0.70      2131
+
+            accuracy                           0.80     10537
+           macro avg       0.78      0.77      0.77     10537
+        weighted avg       0.80      0.80      0.80     10537
